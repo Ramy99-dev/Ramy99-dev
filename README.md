@@ -40,8 +40,3 @@
 
 
 
-
-[linkedin]: https://www.linkedin.com/in/ramychargui/
-[facebook]:https://www.facebook.com/profile.php?id=100013850407476
-[instagram]: https://www.instagram.com/charguiramy___/
-
