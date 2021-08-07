@@ -1,8 +1,8 @@
 ### Hi there, I'm Ramy Chargui 👋
 
-## I'm a Student at the  Higher Institute of Technological Studies of Nabeul - Tunisia 
+## I'm a Student at the  Higher Institute of Technological Studies of Nabeul - Tunisia 🏢
 
-- 🌱 I’m currently learning Web and Mobile Developement  
+- 🌱 I’m currently learning Web and Mobile Developement 💻
 - 🥅 2021 Goals: Learn more about the Web Developement & Contribute more to Open Source projects
 
 
