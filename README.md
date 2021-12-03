@@ -3,7 +3,7 @@
 ## I'm a Student at the  Higher Institute of Technological Studies of Nabeul - Tunisia 🏢
 
 - 🌱 I’m currently learning Web and Mobile Developement 💻
-- 🥅 2021 Goals: Learn more about the Web Developement & Contribute more to Open Source projects
+- 🥅 2022 Goals: Learn DevOps
 
 
 ### Connect with me:
