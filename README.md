@@ -1,6 +1,6 @@
 ### Hi there, I'm Ramy Chargui 👋
 
-## I'm a Student at the  Higher Institute of Technological Studies of Nabeul - Tunisia 🏢
+## Full Stack Web Developer | Mobile Developer 💻
 
 - 🌱 I’m currently learning Web and Mobile Developement 💻
 - 🥅 2022 Goals: Learn DevOps
@@ -26,7 +26,6 @@
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="NestJs" width="26px" src="https://iconape.com/wp-content/files/ed/351308/svg/nestjs-seeklogo.com.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
