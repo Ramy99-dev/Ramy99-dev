@@ -2,8 +2,7 @@
 
 ## Full Stack Web Developer | Mobile Developer 💻
 
-- 🌱 I’m currently learning Web and Mobile Developement 💻
-- 🥅 2022 Goals: Learn DevOps
+- DevOps and Cloud Computing enthusiast 
 
 
 ### Connect with me:
