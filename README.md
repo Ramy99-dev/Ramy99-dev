@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer | Mobile Developer 💻
 
-- DevOps and Cloud Computing enthusiast 
+- <b> DevOps </b> and <b> Cloud Computing </b> enthusiast 
 
 
 ### Connect with me:
