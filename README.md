@@ -1,6 +1,6 @@
 ### Hi there, I'm Ramy Chargui 👋
 
-## DevOps Engineer 💻
+## DevOps Engineer 🗜️
 
  <b> DevOps </b> and <b> Cloud Computing </b> enthusiast <br/>
  Website : https://ramy99.netlify.app/
